@@ -1,0 +1,386 @@
+{
+	"status": 0,
+	"data": {
+		"films": [{
+			"filmId": 4531,
+			"name": "今夜在浪漫剧场",
+			"poster": "https://pic.maizuo.com/usr/movie/f715236f1ab95c06acc11d99b8baed19.jpg",
+			"actors": [{
+				"name": "武内英树 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/61df108e7db762bff80328b5f476ee05.jpg"
+			}, {
+				"name": "绫濑遥",
+				"role": "美雪",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/ebe65c69a391cd798d4c6a72af142b96.jpg"
+			}, {
+				"name": "北村一辉",
+				"role": "后藤龙之介  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/5e4a93b9f9b6184da6cdb0479d557c58.jpg"
+			}, {
+				"name": "坂口健太郎",
+				"role": " 牧野健司  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8786670e21d98a04e95c5f4fcf521211.jpg"
+			}, {
+				"name": "本田翼",
+				"role": "成瀬塔子  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/be3d081b88a495a800ca0961e5268d32.jpg"
+			}],
+			"director": " 武内英树",
+			"category": "爱情|奇幻",
+			"synopsis": "影片讲述梦想成为导演的淳朴青年健司（坂口健太郎 饰），和从黑白电影中“穿越而出”，现身于健司面前的美雪公主（绫濑遥 饰）之间的纯情恋爱故事。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "日本",
+			"language": "日语",
+			"videoId": "",
+			"premiereAt": 1550102400,
+			"timeType": 3,
+			"runtime": 109,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4532,
+			"name": "蓝色生死恋",
+			"poster": "https://pic.maizuo.com/usr/movie/253a4027978611693d72b482b7d71d87.jpg",
+			"actors": [{
+				"name": "王才涛",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/4b0c08ea763a2c4126a62eff62ff2837.jpg"
+			}, {
+				"name": "许凯 ",
+				"role": " 韩泰",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/2e389f809789afb1c9174b56816e6626.jpg"
+			}, {
+				"name": "赵露思 ",
+				"role": " 恩熙  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/f43dc749b35cb1040fc315728fbec91b.jpg"
+			}, {
+				"name": "孟美岐",
+				"role": " 欣爱",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/776871b46c35a162081cf7c022543678.jpg"
+			}, {
+				"name": "焦睿",
+				"role": "俊熙  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/b5bc6915c920f8941c7539a0d4057e81.jpg"
+			}, {
+				"name": "梁婧娴",
+				"role": "苏冉",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/7219cbde988e70a29378473a751e5e83.jpg"
+			}],
+			"director": " 王才涛",
+			"category": "爱情",
+			"synopsis": "电影《蓝色生死恋》根据经典IP电视剧改编，二十年之后以电影形式重回大众视野，讲述了两个同天出生的女孩儿因无意间被掉包，从而牵连出几位主角间命运的错位和爱情的纠葛的故事。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1550102400,
+			"timeType": 3,
+			"runtime": 100,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4534,
+			"name": "一吻定情 ",
+			"poster": "https://pic.maizuo.com/usr/movie/538c23218a292bb9155f216eaba8e8dc.jpg",
+			"actors": [{
+				"name": "陈玉珊",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/555587b6a9e92cf80ac3b8cf80183fc0.jpg"
+			}, {
+				"name": "林允",
+				"role": "袁湘琴",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/e05da3e63cd10a86cca3750b89645b1c.jpg"
+			}, {
+				"name": "王大陆 ",
+				"role": "江直树",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/0ad913cbbd4bf15c11056c9fb2bf8e92.jpg"
+			}],
+			"director": " 陈玉珊",
+			"category": "喜剧|爱情",
+			"synopsis": "笨蛋爱上天才，会有结果吗？平凡女孩原湘琴（林允饰）喜欢上了天才少年江直树（王大陆饰），在她表白失败准备放弃之际，爸爸居然带着自己搬进了直树家里？！一个猛追，一个猛逃，热闹欢腾的纯真高中生活就此上演。朝夕相处中，直树渐渐被湘琴乐观的无畏精神吸引，他开始怀疑：湘琴究竟是人生偏差、还是自己的命中注定?",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": " 中国大陆",
+			"language": "汉语普通话",
+			"videoId": "XNDAyODYxMzA3Mg==",
+			"premiereAt": 1550102400,
+			"timeType": 3,
+			"runtime": 100,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4545,
+			"name": "五十米之恋",
+			"poster": "https://pic.maizuo.com/usr/movie/709f76940ecb522f6b09c75dcc9cf11c.jpg",
+			"actors": [{
+				"name": "李依理",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/7c77908426c1c9a6e4892d97ba8f2d25.jpg"
+			}, {
+				"name": "谢楠 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/9c52b8e63c2116af4db7b6af9b9be1be.jpg"
+			}, {
+				"name": "方力申",
+				"role": " 演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/9c4f7c1f4bbaa69ae948147fa8b8b45b.jpg"
+			}],
+			"director": "李依理",
+			"category": "剧情|喜剧|爱情",
+			"synopsis": "自视甚高的记者余美仁（谢楠饰）是电视台里炙手可热的晋升人选，为了击败对手，她不惜挑战无人胜任的采访任务——前往南方的偏僻小城，去揭露一个有机农场的重大秘密。不料，余美仁在那里不仅遇到了“猪队友”——脱线少年小达（马昂饰）和中二少女莫莫（丁一一饰），更发现低调随性的农场主竟是自己的“克星”——小学同学李十全（方力申饰）。小时候只要两人相距50米以内，她就会出糗倒霉。然而为了事业，余美仁不得不和“克星”擦出亦敌亦友的火花，在保持50米距离的同时，一段阴差阳错又爆笑感人的爱情正在这个浪漫的小城悄然绽放。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1550102400,
+			"timeType": 3,
+			"runtime": 92,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4544,
+			"name": "瑞雪兆丰年",
+			"poster": "https://pic.maizuo.com/usr/movie/bf44ee09788e190d9e503d69ef743dcd.jpg",
+			"director": "邓海",
+			"category": "动画|儿童|奇幻",
+			"synopsis": "动画电影《瑞雪兆丰年》主要讲述了两只长白山怪兽得知自己的前世是长白山天池神龙，想要重新变回神龙，就必须吃掉千年人参“参大福”。在这个过程中，两位神龙和小伙伴们发生了一系列好玩有趣的故事。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1550275200,
+			"timeType": 3,
+			"runtime": 86,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": false,
+			"isSale": false
+		}, {
+			"filmId": 4546,
+			"name": "北斗风云",
+			"poster": "https://pic.maizuo.com/usr/movie/7c0ecc9c922002c4d0158ce3fbe6afe2.jpg",
+			"actors": [{
+				"name": "马玉辉 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/37e3a636db91a1dcfaefb6616bc9d337.jpg"
+			}, {
+				"name": "高志强 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/66075ce317bb8fc44d08f11fec0f4314.jpg"
+			}, {
+				"name": "孔琳",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/6035d90f106499663f6cc95f22f0aad0.jpg"
+			}],
+			"director": " 马玉辉   魏子千",
+			"category": "悬疑|战争",
+			"synopsis": "故事讲述的是1944年，青岛的共产党地下组织“北斗”为了保护一位带着苏联攻打日本关东军的密电的小女孩儿，与日本宪兵队、黑龙会、军统展开了一场激烈的生死对决。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1550620800,
+			"timeType": 3,
+			"runtime": 97,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": false,
+			"isSale": false
+		}, {
+			"filmId": 4533,
+			"name": "阿丽塔：战斗天使",
+			"poster": "https://pic.maizuo.com/usr/movie/e2faa90be5a512de432b30d23398f052.jpg",
+			"actors": [{
+				"name": "罗伯特·罗德里格兹",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/d74bdbb492c3bb2076f93efde2eb70f7.jpg"
+			}, {
+				"name": " 克里斯托弗·沃尔兹",
+				"role": "戴森·艾德博士",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8c76b219e15784d68d2cea51056012b4.jpg"
+			}, {
+				"name": "罗莎·萨拉查",
+				"role": "阿丽塔",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/231b166c3a0330d549c3a2afad748251.jpg"
+			}, {
+				"name": "基恩·约翰逊 ",
+				"role": "雨果",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/165cb4a2e42c35ee0c98286cbd08595a.jpg"
+			}, {
+				"name": "詹妮弗·康纳利",
+				"role": " 切伦",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/c0ea50ae7224aa3fb702d49f1a9e3d22.jpg"
+			}, {
+				"name": "艾德·斯克林",
+				"role": "萨曼",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/fcaa1121240ac619d2ed33de4f74830a.jpg"
+			}],
+			"director": "罗伯特·罗德里格兹",
+			"category": "动作|科幻|冒险",
+			"synopsis": "阿丽塔（罗莎·萨拉扎尔 饰）醒来发现既不记得自己是谁，也不认识这个未来世界。善良的医生依德（克里斯托夫·沃尔兹 饰）收留了阿丽塔，因为他意识到在这被遗弃的机器人外壳下，潜藏着一个有着非凡的心灵。当阿丽塔逐步适应她的新生活和钢铁城的街头险恶时，依德想试图让她远离她那神秘的过往，但她的街头朋友雨果（基恩·约翰逊 饰）则试图帮她唤起回忆。城市腐败统治者对阿丽塔展开了追捕，她却因此发现了有关过去的线索——她具有独特而强大的战斗能力。若她能够逃离他们的控制，她就能成为拯救她的朋友，家人和她所爱世界的关键。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "美国   加拿大 阿根廷",
+			"language": "英语   西班牙语",
+			"videoId": "XNDAzNDU0NjE1Mg==",
+			"premiereAt": 1550793600,
+			"timeType": 3,
+			"runtime": 100,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4535,
+			"name": "朝花夕誓",
+			"poster": "https://pic.maizuo.com/usr/movie/4adb3df0b3540bd5fc3f0bda86ccb3f7.jpg",
+			"actors": [{
+				"name": "冈田磨里",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8ebfb1eb72fcddc2120515f56f6594a5.jpg"
+			}, {
+				"name": "筱原俊哉 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/65a063f6ca15b3549643ed08d34b3443.jpg"
+			}, {
+				"name": "入野自由 ",
+				"role": " 艾瑞尔",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/a30255491d5581e120f2731f1ca2e1e9.jpg"
+			}, {
+				"name": " 石见舞菜香",
+				"role": " 玛奇亚",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/4eea961a5dce47bf4067b15c55c7ba28.jpg"
+			}],
+			"director": " 冈田磨里  筱原俊哉",
+			"category": "动画|奇幻",
+			"synopsis": "在世界的尽头，住着一群被称为“离别一族”的古老民族：他们拥有着长寿之血和永生不老的面容。在一场外族入侵的战役中，离别一族惨遭灭族，15岁的玛奇亚虽然侥幸逃生，却彻底和朋友失去了联系。孤身一人的她在残骸中拾到了一个普通人家的遗孤，并决定收养它。然而随着时间的流逝，玛奇亚必须要学会如何做一个母亲，经历人间的生离死别，并在朝代的更迭中守护“离别一族”最后的信仰…",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": " 日本",
+			"language": "日语",
+			"videoId": "XNDAxNDgyNjI0OA==",
+			"premiereAt": 1550793600,
+			"timeType": 3,
+			"runtime": 115,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": false,
+			"isSale": false
+		}, {
+			"filmId": 4543,
+			"name": "三变山变",
+			"poster": "https://pic.maizuo.com/usr/movie/cbf43a1c4e4c9181f950045526fb0f38.jpg",
+			"director": " 彭兰玉",
+			"category": "纪录片",
+			"synopsis": "电影《三变 山变》由彭兰玉执导，以改革开放40年为大背景，用纪录电影表现手法展示六盘水市各级党委政府以责任、担当和勇气带领全市各族人民群众是怎样开启脱贫攻坚之旅的，真实再现了“资源变资产、资金变股金、农民变股东”这“三变”改革探索中的鲜活故事，记录了在以习近平总书记为核心的党中央领导下，中国农村正在发生着的翻天覆地的变化。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": " 中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1551139200,
+			"timeType": 3,
+			"runtime": 100,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": false,
+			"isSale": false
+		}, {
+			"filmId": 4537,
+			"name": "绿皮书 ",
+			"poster": "https://pic.maizuo.com/usr/movie/5cb44c8aa86c4d42ac62e708c2833908.jpg",
+			"actors": [{
+				"name": "彼得·法雷里 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/344af8ad58efab5afe9d88b64b0a92f1.jpg"
+			}, {
+				"name": "马赫沙拉·阿里",
+				"role": " Don Shirley  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/4580dd780007d48b19524d43eb91ca57.jpg"
+			}, {
+				"name": " 塞巴斯蒂安·马尼斯科 ",
+				"role": "Johnny Venere",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/d4d8df776bb47a7f5d0bf3f19e4cf185.jpg"
+			}, {
+				"name": "维果·莫腾森 ",
+				"role": "Tony Lip",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/665c82aa844f3d137f7986ef11c91e1f.jpg"
+			}, {
+				"name": " 琳达·卡德里尼 ",
+				"role": "Dolores",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/3284464527cd63db18259e29ac35baf3.jpg"
+			}],
+			"director": "彼得·法雷里",
+			"category": "剧情|喜剧|传记",
+			"synopsis": "一名黑人钢琴家，为前往种族歧视严重的南方巡演，找了一个粗暴的白人混混做司机。在一路开车南下的过程里，截然不同的两人矛盾不断，引发了不少争吵和笑料。但又在彼此最需要的时候，一起共渡难关。行程临近结束，两人也慢慢放下了偏见......　　绿皮书，是一本专为黑人而设的旅行指南，标注了各城市中允许黑人进入的旅店、餐馆。电影由真实故事改编。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "美国",
+			"language": "英语  意大利语   ",
+			"videoId": "",
+			"premiereAt": 1551398400,
+			"timeType": 3,
+			"runtime": 130,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": false,
+			"isSale": false
+		}],
+		"total": 18
+	},
+	"msg": "ok"
+}

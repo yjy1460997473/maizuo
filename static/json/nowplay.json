@@ -1,0 +1,385 @@
+{
+	"status": 0,
+	"data": {
+		"films": [{
+			"filmId": 4487,
+			"name": "流浪地球",
+			"poster": "https://pic.maizuo.com/usr/movie/bed8f7edd414e5b8afd788be30b92f9f.jpg",
+			"actors": [{
+				"name": "郭帆",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/88357f5dd8a4e3736863f0dd04126b3b.jpg"
+			}, {
+				"name": "屈楚萧",
+				"role": "刘启  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/1b1339cc8604c304f32db9033677559d.jpg"
+			}, {
+				"name": "李光洁",
+				"role": "王磊",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/a491325a2e5f00a49f2b35c3012de6f5.jpg"
+			}, {
+				"name": "吴孟达 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/5d5b3a1abc9d72fd7f2290b6b3bd07ca.jpg"
+			}, {
+				"name": "赵今麦",
+				"role": "韩朵朵",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/d6445a73ade3293405c4c6788f6d3305.jpg"
+			}],
+			"director": "郭帆",
+			"category": "科幻",
+			"synopsis": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新家园。然而宇宙之路危机四伏，为了拯救地球，为了人类能在漫长的2500年后抵达新的家园，流浪地球时代的年轻人挺身而出，展开争分夺秒的生死之战。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆 ",
+			"language": "汉语普通话   英语",
+			"videoId": "XMzk0Njk2OTQxMg==",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 100,
+			"grade": "7.9",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4492,
+			"name": "疯狂的外星人",
+			"poster": "https://pic.maizuo.com/usr/movie/669aadccddf204432c22e400226e9871.jpg",
+			"actors": [{
+				"name": "宁浩 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/2879b3e0bf1d8ac948005e3f9e4be239.jpg"
+			}, {
+				"name": "黄渤",
+				"role": " 耿浩",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/2cc525e90d5988a806d2a341fe29d42d.jpg"
+			}, {
+				"name": "沈腾 ",
+				"role": " 大飞",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/0149b2623e2197d1404a7cb7356ed477.jpg"
+			}, {
+				"name": "马修·莫里森 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/a05cfbe366e4f3ef5a41c8108a2e9836.jpg"
+			}, {
+				"name": "汤姆·派福瑞 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/1ccbf64b9323c49a3d104c2b362c4ad1.jpg"
+			}, {
+				"name": "凯特·纳尔逊 ",
+				"role": " CIA Officer",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/814ace9b6bd688245d5c6c9856a9fceb.jpg"
+			}],
+			"director": "宁浩",
+			"category": "剧情|喜剧|科幻",
+			"synopsis": "耿浩（黄渤 饰）与一心想发大财的好兄弟大飞（沈腾 饰），经营着各自惨淡的“事业”，然而“天外来客”的意外降临，打破了二人平静又拮据的生活。神秘的西方力量也派出“哼哈二将”在全球搜查外星人行踪。啼笑皆非的跨物种对决，别开生面的“星战”，在中国某海边城市激情上演。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "XMzk1NjUxNTI1Mg==",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 100,
+			"grade": "7.6",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4490,
+			"name": "飞驰人生",
+			"poster": "https://pic.maizuo.com/usr/movie/9e17a42916fe1fb80becc74736ea32ff.jpg",
+			"actors": [{
+				"name": "韩寒 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8e6ab15d71462a761765dfb9e3d0a9ab.jpg"
+			}, {
+				"name": "沈腾",
+				"role": "张驰",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/9398cc92555e1a06b253dd73b5320440.jpg"
+			}, {
+				"name": "尹正 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/fadc73e34463640c766af0db7f785e33.jpg"
+			}, {
+				"name": "尹昉 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/63cf3e6fdded9542af4b11c51953dbdd.jpg"
+			}, {
+				"name": "田雨 ",
+				"role": "演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/89d89c9b7f4680cae7233b9a6be1443e.jpg"
+			}, {
+				"name": "黄景瑜",
+				"role": "林臻东",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/f43b7d72b97742905d86c6ebff752db4.jpg"
+			}],
+			"director": "韩寒",
+			"category": "喜剧|动作",
+			"synopsis": "曾经在赛车界叱咤风云、如今却只能经营炒饭大排档的赛车手张驰决定重返车坛，在职业生涯的尾声挑战年轻一代的天才，他想聚齐昔日的搭档们，召唤神龙，再现光辉岁月，不料却遭现实狠狠打脸，状况百出。在这场还得从考驾照开始的复出之路上，究竟会有多少意料之外的窘境等待着这位过气车神？",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "XMzg0ODg4NjYxNg==",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 100,
+			"grade": "7",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4516,
+			"name": "熊出没·原始时代",
+			"poster": "https://pic.maizuo.com/usr/movie/49c597de0f21922871fa28d8f355a6b4.jpg",
+			"director": "丁亮 / 林汇达",
+			"category": "喜剧|动画|冒险",
+			"synopsis": "熊大熊二光头强意外穿越回恢宏的石器时代，在原始部落与猛犸象、剑齿虎等一众奇特 生物开启了眼界大开的奇幻之旅！原始时代瑰丽非常却又危机四伏，熊强三人组与一只可爱 狼女一路相伴，笑料百出。原始部落纠葛不断，女族长竟对光头强情愫暗生……面对凶猛狼 族的步步紧逼、原始人类的不断质疑、自然危机的全面爆发，熊强究竟何去何从？他们又能 否回归现代？一场关于守护与成长、爱与勇气的冒险，拉开序幕……",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 88,
+			"grade": "7.7",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4534,
+			"name": "一吻定情 ",
+			"poster": "https://pic.maizuo.com/usr/movie/538c23218a292bb9155f216eaba8e8dc.jpg",
+			"actors": [{
+				"name": "陈玉珊",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/555587b6a9e92cf80ac3b8cf80183fc0.jpg"
+			}, {
+				"name": "林允",
+				"role": "袁湘琴",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/e05da3e63cd10a86cca3750b89645b1c.jpg"
+			}, {
+				"name": "王大陆 ",
+				"role": "江直树",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/0ad913cbbd4bf15c11056c9fb2bf8e92.jpg"
+			}],
+			"director": " 陈玉珊",
+			"category": "喜剧|爱情",
+			"synopsis": "笨蛋爱上天才，会有结果吗？平凡女孩原湘琴（林允饰）喜欢上了天才少年江直树（王大陆饰），在她表白失败准备放弃之际，爸爸居然带着自己搬进了直树家里？！一个猛追，一个猛逃，热闹欢腾的纯真高中生活就此上演。朝夕相处中，直树渐渐被湘琴乐观的无畏精神吸引，他开始怀疑：湘琴究竟是人生偏差、还是自己的命中注定?",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": " 中国大陆",
+			"language": "汉语普通话",
+			"videoId": "XNDAyODYxMzA3Mg==",
+			"premiereAt": 1550102400,
+			"timeType": 3,
+			"runtime": 100,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4491,
+			"name": "新喜剧之王",
+			"poster": "https://pic.maizuo.com/usr/movie/39870649a759faafd3cf4111bb347b9c.jpg",
+			"actors": [{
+				"name": "周星驰 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/75a4d2507f44499c096b45ab0beda7b2.jpg"
+			}, {
+				"name": "王宝强",
+				"role": " 演员",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/d51401414fd0c50f6de2af57b51bfb3c.jpg"
+			}],
+			"director": "周星驰",
+			"category": "剧情|喜剧",
+			"synopsis": "周星驰2019春节档新作，回归小人物喜剧，重新聚焦在平凡生活中不甘平凡的人。“七大武器之首”折凳再现江湖，原汁原味走心加接地气，纯搞笑风格的周星驰式喜剧，大年初一上映。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆   香港",
+			"language": " 汉语普通话   粤语",
+			"videoId": "",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 100,
+			"grade": "7",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4531,
+			"name": "今夜在浪漫剧场",
+			"poster": "https://pic.maizuo.com/usr/movie/f715236f1ab95c06acc11d99b8baed19.jpg",
+			"actors": [{
+				"name": "武内英树 ",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/61df108e7db762bff80328b5f476ee05.jpg"
+			}, {
+				"name": "绫濑遥",
+				"role": "美雪",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/ebe65c69a391cd798d4c6a72af142b96.jpg"
+			}, {
+				"name": "北村一辉",
+				"role": "后藤龙之介  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/5e4a93b9f9b6184da6cdb0479d557c58.jpg"
+			}, {
+				"name": "坂口健太郎",
+				"role": " 牧野健司  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8786670e21d98a04e95c5f4fcf521211.jpg"
+			}, {
+				"name": "本田翼",
+				"role": "成瀬塔子  ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/be3d081b88a495a800ca0961e5268d32.jpg"
+			}],
+			"director": " 武内英树",
+			"category": "爱情|奇幻",
+			"synopsis": "影片讲述梦想成为导演的淳朴青年健司（坂口健太郎 饰），和从黑白电影中“穿越而出”，现身于健司面前的美雪公主（绫濑遥 饰）之间的纯情恋爱故事。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "日本",
+			"language": "日语",
+			"videoId": "",
+			"premiereAt": 1550102400,
+			"timeType": 3,
+			"runtime": 109,
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4511,
+			"name": "神探蒲松龄",
+			"poster": "https://pic.maizuo.com/usr/movie/cea1d34c79dfec2b2f234c06647c1c91.jpg",
+			"director": " 严嘉",
+			"category": "喜剧|动作|爱情|奇幻",
+			"synopsis": "一代文豪蒲松龄（成龙饰）执阴阳判化身神探，与捕快严飞（林柏宏饰）联手追踪金华镇少女失踪案。蒲松龄带领“猪狮虎”“屁屁”“忘忧”“千手”等一众小妖深入案情，在找寻真相的过程中，牵扯出一段旷世奇恋。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆",
+			"language": "汉语普通话",
+			"videoId": "",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 100,
+			"grade": "5.2",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4514,
+			"name": "廉政风云 ",
+			"poster": "https://pic.maizuo.com/usr/movie/290b71fb0e848bd05a12dd1c02ef8885.jpg",
+			"director": " 麦兆辉",
+			"category": "剧情|悬疑|犯罪",
+			"synopsis": "廉政公署一宗经历多年调查的严重非法内销行贿案件，竟因首被告理达贸易集团负责人陈超群弃保潜逃，以及唯一重要证人兼举报者，理达的前任财务总监许植尧（张家辉饰）缺席出庭作证，导致法庭勒令延审一星期！为了7天后案件顺利重审，ICAC展开全面行动。负责此案的队长陈敬慈（刘青云饰）和负责寻找证人的江雪儿（林嘉欣饰）原是廉政公署一对恩爱夫妻，如今已分居多时，为了案件不得不联手合作。在抓捕陈超群和寻找许植尧的过程中两人都意外发现他们背后隐藏的另一重身份。一个谜团的解开是另一个谜团的开启，背后的阴谋远远超出所有人的想象，烟幕笼罩下光明之路在何方？",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "香港   中国大陆 ",
+			"language": " 粤语",
+			"videoId": "",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 114,
+			"grade": "7",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}, {
+			"filmId": 4513,
+			"name": "小猪佩奇过大年",
+			"poster": "https://pic.maizuo.com/usr/movie/f39d3bcc4b2ee1511b818012d8ba8e06.jpg",
+			"actors": [{
+				"name": "张大鹏",
+				"role": " 导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/a7139e64cfda0c891ba60eb6e850ced0.jpg"
+			}, {
+				"name": "内维尔·阿斯特利",
+				"role": "导演",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/0c478300157fc13effa94af09ad8a64d.jpg"
+			}, {
+				"name": " 朱亚文",
+				"role": "爸爸",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/b5b097d669893a3e283af877a328d422.jpg"
+			}, {
+				"name": "刘芸",
+				"role": "妈妈",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/d3d770fc6b295301027d58c2d7fcb5e8.jpg"
+			}, {
+				"name": "王圣迪",
+				"role": "汤圆",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/7ecf477d41ce316e8fcd5a6d4aea86f9.jpg"
+			}, {
+				"name": "单禹豪",
+				"role": "饺子",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/4e75563100099aa200947b1babd5190a.jpg"
+			}],
+			"director": "张大鹏|内维尔·阿斯特利|马克·贝克|Joris|van|Hulzen|Sarah|Roper",
+			"category": "喜剧|动画|家庭|儿童",
+			"synopsis": "阿里影业与英国Entertainment One合拍，讲述汤圆、饺子和爸爸妈妈生活在一个温暖的家庭里。除夕这天，爷爷奶奶姥姥姥爷与他们相聚。大家体验了传统习俗，经历了很多意想不到的事情。他们和佩奇乔治一样，每经历一件事情，就会让他们更加热爱彼此，热爱家人，热爱生活。",
+			"filmType": {
+				"name": "2D",
+				"value": 1
+			},
+			"nation": "中国大陆   英国",
+			"language": "汉语普通话  英语",
+			"videoId": "XNDAxNzQ5MjM2MA==",
+			"premiereAt": 1549324800,
+			"timeType": 3,
+			"runtime": 100,
+			"grade": "5.2",
+			"item": {
+				"name": "2D",
+				"type": 1
+			},
+			"isPresale": true,
+			"isSale": false
+		}],
+		"total": 22
+	},
+	"msg": "ok"
+}
